@@ -1,0 +1,18 @@
+﻿  Source.cpp
+C:\Users\user\source\repos\rubix\Source.cpp(10,19): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\rubix\Source.cpp(10,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\rubix\Source.cpp(538,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\rubix\Source.cpp(539,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\rubix\Source.cpp(540,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\rubix\Source.cpp(1078,15): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\rubix\Source.cpp(1270,9): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\rubix\Source.cpp(1275,9): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\rubix\Source.cpp(1280,9): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\rubix\Source.cpp(1285,9): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\rubix\Source.cpp(1290,9): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\rubix\Source.cpp(1295,9): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\user\source\repos\rubix\Source.cpp(1310,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\source\repos\rubix\Source.cpp(1320,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\source\repos\rubix\Source.cpp(1331,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\source\repos\rubix\Source.cpp(1340,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  rubix.vcxproj -> C:\Users\user\source\repos\rubix\Debug\rubix.exe
